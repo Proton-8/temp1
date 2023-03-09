@@ -1,7 +1,7 @@
 {
   "name": "temp1",
   "version": "0.1.0",
-  "homepage": "https://proton-8.github.io/react_deploy_gh",
+  "homepage": "https://proton-8.github.io/temp1",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
